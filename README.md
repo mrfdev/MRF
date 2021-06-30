@@ -26,5 +26,5 @@ Our discord [discord.1moreblock.com](https://discord.gg/KzTDhxv) (offtopic chann
 
 ## Version
 
-This is MRF Github version 1.1 build 002, January 16th, 2021. I kind of forgot what the website version is, if I find it, I will put it here.
+This is MRF Github version 1.2 build 003, May 20th, 2021. I kind of forgot what the website version is, if I find it, I will put it here.
 
