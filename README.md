@@ -1,30 +1,28 @@
-# MRF
-Things for the mrfloris.com personal blog site.
+# MRF - Mrfloris.com Personal Blog Site
+
+Welcome to the MRF GitHub repository.
 
 ## What is this about?
 
-This repository is mainly for internal use. You don't have to browse this.
-
-Thank you for checking out this repository though, I know some people like to know what I am up to.
+This repository is primarily intended for internal use and is not meant for casual browsing. However, I appreciate your interest in checking it out, as some people like to know what I am up to.
 
 ## Can I contribute?
 
-Not really, but.. sure? Contribute through offering blog topic suggestions, point out improvements on grammar, phrasing, false information, typing errors, etc. Or post if there's a missing image, page not working, or things like that. 
+While direct contributions may not be possible, you can still participate by offering valuable input, such as suggesting blog topics, pointing out grammar and phrasing improvements, improving inaccuracies, typos, and other errors. Additionally, if you come across missing images or non-functional pages on the website, your feedback is welcome.
 
 ## Support?
 
-There's no support really. You can explore this repository, or browse mrfloris.com, but there's no real support to give.
+Please note that there is no dedicated support for this repository or the website. You are welcome to explore the contents here or visit [mrfloris.com](https://mrfloris.com/), but formal support is not available.
 
 ## Why a blog?
 
-I've always had one, I've always changed the code behind it and the engine on a yearly basis. But with all these changes in life I just don't get around to it. In 2019/2020 it's a default WordPress blog front-end and back-end, and I am not happy about that. I want to go back to writing. Who knows what I will do in 2021/2022.
+Maintaining a personal blog has been a longstanding practice for me. Over the years, I've made periodic changes to the underlying code and engine, though recently, due to life's demands, I haven't been able to do so. Presently, the blog utilizes the default WordPress front-end and back-end, which doesn't entirely satisfy me. My ultimate goal is to return to writing more frequently, and who knows what changes I might introduce in 2021/2022.
 
 ## Information (Useful links)
 
-The website [mrfloris.com](https://mrfloris.com/) (this is where my longform blogs are)
-Our discord [discord.1moreblock.com](https://discord.gg/KzTDhxv) (offtopic channel)
+- Visit the website for longform blogs: [mrfloris.com](https://mrfloris.com/)
+- Join our Discord community: [discord.gg/floris](https://discord.gg/floris)
 
 ## Version
 
-This is MRF Github version 1.2 build 003, May 20th, 2021. I kind of forgot what the website version is, if I find it, I will put it here.
-
+This is MRF Github version 1.2 build 003, dated May 20th, 2021. I may have forgotten the specific website version, but I'll update it here if I find it.
