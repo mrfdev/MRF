@@ -25,4 +25,4 @@ Maintaining a personal blog has been a longstanding practice for me. Over the ye
 
 ## Version
 
-This is MRF Github version 1.2 build 003, dated May 20th, 2021. I may have forgotten the specific website version, but I'll update it here if I find it.
+This is MRF Github version 1.2.1 build 004, dated July 23rd, 2023. I may have forgotten the specific website version, but I'll update it here if I find it.
